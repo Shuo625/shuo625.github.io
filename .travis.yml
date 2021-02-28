@@ -2,7 +2,7 @@ language: ruby
 cache: bundler
 gemfile: Gemfile
 script:
-  - bundle exec jekyll algolia
+  - ALGOLIA_API_KEY=a416c5749603e008afd306ae48e82413 bundle exec jekyll algolia
 branches:
   only:
     # Change this to gh-pages if you're deploying using the gh-pages branch
