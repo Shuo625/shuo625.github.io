@@ -266,6 +266,15 @@ compress_html:
     envs: development
 
 
+# Collections
+collections_dir: collections
+
+collections:
+  programming_languages:
+    output: true
+    permalink: /programming-languages/:path/
+
+
 # Defaults
 defaults:
   # _posts
