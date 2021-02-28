@@ -8,6 +8,7 @@ group :jekyll_plugins do
     gem "jekyll-gist", "~> 1.5"
     gem "jekyll-feed", "~> 0.1"
     gem "jekyll-include-cache", "~> 0.1"
+    gem "jekyll-algolia"
 end
 
 gem "bundler"
