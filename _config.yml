@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shuo626's Blog"
+title                    : "Shuo625's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Shuo626"
+name                     : "Shuo625"
 description              : "An amazing website for sharing computer technology."
-url                      : "https://shuo626.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://shuo625.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "Shuo626/shuo626.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "Shuo625/shuo625.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shuo626"
+  name             : "Shuo625"
   avatar           : "/assets/images/head.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a student of Beihang University."
   location         : "Beijing, China"
@@ -113,7 +113,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Shuo626"
+      url: "https://github.com/Shuo625"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -129,7 +129,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Shuo626"
+      url: "https://github.com/Shuo625"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
